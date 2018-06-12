@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 IN_SEQ=$1
 OUT_TSV=$2
