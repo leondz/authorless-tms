@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 IN_SEQ=$1
 VOCAB=$2
